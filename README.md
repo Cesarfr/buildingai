@@ -1,4 +1,4 @@
-# Best local service privider
+# Best local service provider
 
 Final project for the Building AI course
 
